@@ -14,8 +14,8 @@ int main(int argc, const char * argv[])
     @autoreleasepool {
         
         // insert code here...
-         NSLog(@"ahhh This gitHub is hard!!! (p.s. I rock)");
-        
+         NSLog(@"ahhh This gitHub is hard!!! \n(p.s. But not as hard as Eastwood Abs)");
+
     }
     return 0;
 }
